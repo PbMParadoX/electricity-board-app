@@ -52,6 +52,7 @@ A web application for managing electricity connection applications, built with R
    node server.js
    ```
    #### The server will run on **https://localhost:5000**
+   #### The JSON file can be accessed on **https://localhost:5000/api/users**
 
 ### Frontend Setup
 

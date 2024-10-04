@@ -69,6 +69,12 @@ A web application for managing electricity connection applications, built with R
    ```
    #### The app will run on **http://localhost:3000**
 
+### Demo Video
+
+To see a demo of the project, check out the video below:
+
+[![Watch the video](media/electricity-board-app-demo.mp4)](https://github.com/PbMParadoX/electricity-board-app/blob/main/media/electricity-board-app-demo.mp4)
+
 ## Contribution
 
 Contributions are welcome! Please open an issue or submit a pull request.

@@ -73,10 +73,7 @@ A web application for managing electricity connection applications, built with R
 
 To see a demo of the project, check out the video below:
 
-<video width="600" controls>
-  <source src="media/electricity-board-app-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="media/electricity-board-app-demo.mp4" width="600" controls />
 
 ## Contribution
 

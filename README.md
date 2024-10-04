@@ -69,3 +69,10 @@ A web application for managing electricity connection applications, built with R
    ```
    #### The app will run on **http://localhost:3000**
 
+## Contribution
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## Licence
+
+This project is licensed under the MIT License

@@ -73,7 +73,7 @@ A web application for managing electricity connection applications, built with R
 
 To see a demo of the project, check out the video below:
 
-[![Watch the video][media/electricity-board-app-demo.mp4](https://github.com/PbMParadoX/electricity-board-app/blob/main/media/electricity-board-app-demo.mp4)]
+[![Watch the video](media/electricity-board-app-demo.mp4)](https://github.com/PbMParadoX/electricity-board-app/blob/main/media/electricity-board-app-demo.mp4)
 
 ## Contribution
 

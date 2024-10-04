@@ -1,1 +1,44 @@
-# electricity-board-app
+# Electricity Board Management Application
+
+## Overview
+
+A web application for managing electricity connection applications, built with React.js and Node.js.
+
+## Features
+
+### Part A
+
+1. **Display Records**: View all connection requests in a tabular format.
+2. **Search**: Search connection details by Applicant ID.
+3. **Add User**: Add new connection requests.
+4. **Delete User**: Delete existing users with "Rejected" status.
+5. **Date Filter**: Filter connection requests by date range.
+6. **View/Edit**: View and edit connection requests.
+7. **Data Validation**: Ensures data integrity.
+
+### Part B
+
+1. **Visualization Graphs**: Bar charts showing monthly connection requests based on status.
+2. **Pie Charts**: Distribution of connection categories.
+
+## Technologies Used
+
+- **Frontend**: React.js, Material-UI, Recharts
+- **Backend**: Node.js, Express.js
+- **Database**: JSON file (`user.json`)
+- **Others**: Axios, React Router
+
+## Installation
+
+### Prerequisites
+
+- Node.js & npm
+- Git
+
+### Backend Setup
+
+1. Navigate to the backend directory:
+
+   ```bash
+   cd backend
+   ```

@@ -42,3 +42,37 @@ A web application for managing electricity connection applications, built with R
    ```bash
    cd backend
    ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the backend server:
+   ```bash
+   node server.js
+   ```
+   #### The server will run on **https://localhost:5000**
+
+### Frontend Setup
+
+1. Open a new terminal and navigate to the frontend directory:
+   ```bash
+   cd frontend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the React app:
+   ```bash
+   npm start
+   ```
+   #### The app will run on **http://localhost:3000**
+
+## Contribution
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## Licence
+
+This project is licensed under the MIT License

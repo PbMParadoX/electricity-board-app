@@ -73,7 +73,7 @@ A web application for managing electricity connection applications, built with R
 
 To see a demo of the project, check out the video below:
 
-https://drive.google.com/file/d/1FBtQ2MB7mgkwbkSzWSLHf9DVGtA_hKH9/view?usp=sharing
+Demo Video
 ![image](https://github.com/user-attachments/assets/9b4233d9-dd65-4fdf-879c-2bdb1ece2664)
 
 
